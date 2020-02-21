@@ -1,0 +1,13 @@
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source_MarkupCompile.cache
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source_MarkupCompile.lref
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source.dll
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source.pdb
+C:\Users\Daniil\source\repos\Source\bin\Debug\Source.dll
+C:\Users\Daniil\source\repos\Source\bin\Debug\Source.pdb
+C:\Users\Daniil\source\repos\Source\bin\Debug\System.ValueTuple.dll
+C:\Users\Daniil\source\repos\Source\bin\Debug\System.ValueTuple.xml
+C:\Users\Daniil\source\repos\Source\obj\Debug\Themes\Generic.baml
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source.g.resources
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source.Properties.Resources.resources
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source.csproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\Source\obj\Debug\Source.csproj.CopyComplete

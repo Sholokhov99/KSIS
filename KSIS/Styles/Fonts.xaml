@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <FontFamily x:Key="MainFontFamily">Tahoma</FontFamily>
+    <FontFamily x:Key="FontAwersome">/KSIS;component/Resources/Font/Awesome5/#FontAwesome</FontFamily>
+    <system:Double x:Key="H6">11</system:Double>
+    <system:Double x:Key="H5">13</system:Double>
+    <system:Double x:Key="H4">16</system:Double>
+    <system:Double x:Key="H2">23</system:Double>
+
+</ResourceDictionary>

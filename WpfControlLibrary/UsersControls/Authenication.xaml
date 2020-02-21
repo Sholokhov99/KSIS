@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="WpfControlLibrary.UsersControls.Authenication"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WpfControlLibrary.UsersControls"
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/ResourcesDirectorys/DictionaryResource.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    
+    <Grid>
+        <Rectangle Fill="#CC000000" StrokeThickness="2" Stroke="Aqua" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" RadiusX="15" RadiusY="15" />
+        <StackPanel Background="Red" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <!-- Информация о системе -->
+            <Grid Margin="17,17,17,0">
+                <Label Content="USA" HorizontalAlignment="Left"/>
+                <Label Content="11:51 PM" HorizontalAlignment="Right"/>
+            </Grid>
+            <!-- Форма ввода информации -->
+            <StackPanel>
+                <TextBox x:Name="TxtBoxLOGIN" Text="Login" Style="{StaticResource DefaultTextBox}" Width="180"/>
+                <PasswordBox x:Name="PassBoxPASSWORD" Password="Pass" Style="{StaticResource DefaultPasswordBox}" Width="180"/>
+            </StackPanel>
+            <!-- Кнопки управления приложением -->
+            <Grid>
+                <Button Content="Войти" HorizontalAlignment="Left" Style="{StaticResource DefBtn}" />
+                <Button Content="Изменить пароль" HorizontalAlignment="Right"/>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>

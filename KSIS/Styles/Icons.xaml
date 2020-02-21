@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:KSIS.Styles"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="Fa_PowerOff"></system:String>
+    <system:String x:Key="Fa_RoleteLeft"></system:String>
+    <system:String x:Key="Fa_Sleep"></system:String>
+    <system:String x:Key="Fa_Setting"></system:String>
+    <system:String x:Key="Fa_SignIn"></system:String>
+    <system:String x:Key="Fa_Slideshare"></system:String>
+    
+</ResourceDictionary>
